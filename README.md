@@ -7,7 +7,7 @@ Realizar o desenvolvimento dasOne Page sobre o curso técnico de Redes de Comput
 
 ## Website
 
-A galeria pode ser acessada pelo link: [vitoraguiarc](https://github.com/vitoraguiarc)
+A galeria pode ser acessada pelo link: [vitoraguiarc](https://vitoraguiarc.github.io/redes-one-page/)
 
 ## Tecnológias
 
