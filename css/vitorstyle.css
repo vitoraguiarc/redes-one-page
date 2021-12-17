@@ -1,0 +1,11 @@
+#vitorum {
+  width: 100%;
+  height: 100vh;
+  background-image: url(../img/background-off.png);
+  background-size: cover;
+  background-position: right, top;
+  background-color: #0005;
+  background-blend-mode: darken;
+  display: flex;
+  flex-direction: column;
+}

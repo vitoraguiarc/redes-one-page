@@ -1,0 +1,64 @@
+
+#contem {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  align-items: center;
+}
+
+#rectangle {
+  width: 446px;
+  height: 54px;
+
+  background: #010101;
+}
+
+#rectangle h2 {
+  width: 446px;
+  height: 23px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 47px;
+  text-align: center;
+
+  color: azure;
+}
+
+#video {
+  position: relative;
+  width: 900px;
+  height: 500px;
+}
+
+#container {
+  display: flex;
+  gap: 30px;
+}
+.semestres {
+  height: 350px;
+  width: 400px;
+  background-color: #000000;
+}
+.semestres h2 {
+  width: 288px;
+  height: 51px;
+
+  font-family: Didact Gothic;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 47px;
+
+  color: #fffcfc;
+}
+.semestres p {
+  font-size: 30px;
+  line-height: 31px;
+
+  font-family: Didact Gothic;
+  font-style: normal;
+  font-weight: normal;
+  color: #fcf4f4;
+}

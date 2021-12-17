@@ -1,0 +1,94 @@
+#vitorum {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  padding: 0 350px;
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+  gap: 100px;
+}
+#vitorum h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+#vitorum h2 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+#vitorum a {
+  text-decoration: none;
+}
+#vitorum button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 80px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.75) 0%, #193046 100%);
+  font-size: 1.875rem;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+  border-radius: 25px;
+  transition: all 0.5s;
+}
+
+.s {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+}
+
+.s a {
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  font-size: 1.875rem;
+}
+
+#retangulo {
+  width: 350px;
+  height: 50px;
+  background: #0a1220;
+}
+
+#retangulo h2 {
+  padding-left: 30px;
+}
+#container {
+  display: flex;
+}
+
+#dois h2 {
+  font-size: 2.6rem;
+  font-weight: 300;
+  color: #fff9f9;
+  font-family: Didact Gothic;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 63px;
+}
+
+#dois p {
+  width: 634px;
+  font-size: 30px;
+  line-height: 39px;
+  color: #ffffff;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+
+#foto {
+  flex-grow: 1;
+}
+
+#foto img {
+  padding-left: 100px;
+  width: 90%;
+}
